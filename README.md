@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# React Pics App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a toy react pics app, a part of tutorial of [Modern React with Redux](https://www.udemy.com/course/react-redux/).
+In this app, we are going to allow a user to search for different images.
 
 ## Available Scripts
 
